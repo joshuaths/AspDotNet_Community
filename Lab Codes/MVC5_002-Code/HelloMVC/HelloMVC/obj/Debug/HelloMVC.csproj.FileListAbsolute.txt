@@ -16,3 +16,23 @@ c:\users\bob_000\documents\visual studio 2013\Projects\HelloMVC\HelloMVC\bin\Sys
 c:\users\bob_000\documents\visual studio 2013\Projects\HelloMVC\HelloMVC\obj\Debug\HelloMVC.csprojResolveAssemblyReference.cache
 c:\users\bob_000\documents\visual studio 2013\Projects\HelloMVC\HelloMVC\obj\Debug\HelloMVC.dll
 c:\users\bob_000\documents\visual studio 2013\Projects\HelloMVC\HelloMVC\obj\Debug\HelloMVC.pdb
+C:\xampp\htdocs\AspDotNet_Community\Lab Codes\MVC5_002-Code\HelloMVC\HelloMVC\bin\HelloMVC.dll.config
+C:\xampp\htdocs\AspDotNet_Community\Lab Codes\MVC5_002-Code\HelloMVC\HelloMVC\bin\HelloMVC.dll
+C:\xampp\htdocs\AspDotNet_Community\Lab Codes\MVC5_002-Code\HelloMVC\HelloMVC\bin\HelloMVC.pdb
+C:\xampp\htdocs\AspDotNet_Community\Lab Codes\MVC5_002-Code\HelloMVC\HelloMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\xampp\htdocs\AspDotNet_Community\Lab Codes\MVC5_002-Code\HelloMVC\HelloMVC\bin\System.Web.Helpers.dll
+C:\xampp\htdocs\AspDotNet_Community\Lab Codes\MVC5_002-Code\HelloMVC\HelloMVC\bin\System.Web.Mvc.dll
+C:\xampp\htdocs\AspDotNet_Community\Lab Codes\MVC5_002-Code\HelloMVC\HelloMVC\bin\System.Web.Razor.dll
+C:\xampp\htdocs\AspDotNet_Community\Lab Codes\MVC5_002-Code\HelloMVC\HelloMVC\bin\System.Web.Webpages.Deployment.dll
+C:\xampp\htdocs\AspDotNet_Community\Lab Codes\MVC5_002-Code\HelloMVC\HelloMVC\bin\System.Web.Webpages.dll
+C:\xampp\htdocs\AspDotNet_Community\Lab Codes\MVC5_002-Code\HelloMVC\HelloMVC\bin\System.Web.Webpages.Razor.dll
+C:\xampp\htdocs\AspDotNet_Community\Lab Codes\MVC5_002-Code\HelloMVC\HelloMVC\bin\System.Web.Razor.xml
+C:\xampp\htdocs\AspDotNet_Community\Lab Codes\MVC5_002-Code\HelloMVC\HelloMVC\bin\System.Web.Webpages.xml
+C:\xampp\htdocs\AspDotNet_Community\Lab Codes\MVC5_002-Code\HelloMVC\HelloMVC\bin\System.Web.Webpages.Deployment.xml
+C:\xampp\htdocs\AspDotNet_Community\Lab Codes\MVC5_002-Code\HelloMVC\HelloMVC\bin\System.Web.Webpages.Razor.xml
+C:\xampp\htdocs\AspDotNet_Community\Lab Codes\MVC5_002-Code\HelloMVC\HelloMVC\bin\System.Web.Helpers.xml
+C:\xampp\htdocs\AspDotNet_Community\Lab Codes\MVC5_002-Code\HelloMVC\HelloMVC\bin\System.Web.Mvc.xml
+C:\xampp\htdocs\AspDotNet_Community\Lab Codes\MVC5_002-Code\HelloMVC\HelloMVC\obj\Debug\HelloMVC.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\AspDotNet_Community\Lab Codes\MVC5_002-Code\HelloMVC\HelloMVC\obj\Debug\HelloMVC.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\AspDotNet_Community\Lab Codes\MVC5_002-Code\HelloMVC\HelloMVC\obj\Debug\HelloMVC.dll
+C:\xampp\htdocs\AspDotNet_Community\Lab Codes\MVC5_002-Code\HelloMVC\HelloMVC\obj\Debug\HelloMVC.pdb
